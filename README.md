@@ -65,7 +65,7 @@ jupyter notebook
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 After completing this repository, you will be able to:
 - Implement RNNs from scratch
 - Understand gradient flow in sequence models
