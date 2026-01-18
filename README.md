@@ -49,7 +49,7 @@ rnn-basics-from-scratch/
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Clone the repository:
 ```bash
 git clone https://github.com/Muhammad-Javed2005/rnn-basics-from-scratch.git
