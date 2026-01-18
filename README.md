@@ -75,7 +75,7 @@ After completing this repository, you will be able to:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Muhammad Javed**  
 Machine Learning & Deep Learning Enthusiast  
 
@@ -83,7 +83,7 @@ Machine Learning & Deep Learning Enthusiast
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and share this project for learning and research purposes.
 
