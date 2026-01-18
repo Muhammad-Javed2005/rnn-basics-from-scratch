@@ -7,7 +7,7 @@
 ![Neural Networks](https://img.shields.io/badge/Topic-RNN%20%7C%20LSTM%20%7C%20GRU-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-## 📌 Overview
+##  Overview
 This repository provides a **step-by-step, from-scratch explanation of Recurrent Neural Networks (RNNs)** and their modern variants.  
 It is designed for learners who want to **deeply understand sequence modeling, time-series learning, and NLP tasks** without treating models as black boxes.
 
@@ -15,7 +15,7 @@ The notebooks progress from **basic RNN theory** to **advanced architectures and
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 - RNN fundamentals and internal architecture  
 - Forward & backward pass (BPTT)  
 - Vanishing gradient problem and solutions  
