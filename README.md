@@ -30,7 +30,7 @@ The notebooks progress from **basic RNN theory** to **advanced architectures and
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```text
 rnn-basics-from-scratch/
 │
